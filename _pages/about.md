@@ -16,13 +16,11 @@ Education
 **Tsinghua University**		
 
 - M.S. in Computer Science and Technology	2021.09 - 2024.06 
-
 - Research Interests: Expressive Speech Synthesis, Speech Enhancement and Speaker Extraction
 
 **Harbin Institute of Technology**		
 
 - B.E. in Computer Science and Technology	2017.07 - 2021.06 
-
 - GPA Ranking within Top 3%
 - Awards 
   - Excellent Graduate of Harbin Institute of Technology
