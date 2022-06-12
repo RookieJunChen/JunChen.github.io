@@ -33,5 +33,5 @@ Click [here](https://hit-thusz-rookiecj.github.io/JunChen.github.io/files/cv_jun
 
 # Open Source Projects
 
-<img align="left" width="80%" src="https://github-readme-stats.vercel.app/api?username=hit-thusz-Rookiecj&show_icons=true">
+<img align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=hit-thusz-Rookiecj&show_icons=true">
 
