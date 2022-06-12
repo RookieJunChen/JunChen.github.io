@@ -13,12 +13,12 @@ My research interests include Expressive Speech Synthesis, Speech Enhancement an
 
 Education
 ======
-**Tsinghua University**		
+#### Tsinghua University
 
 - M.S. in Computer Science and Technology	2021.09 - 2024.06 
 - Research Interests: Expressive Speech Synthesis, Speech Enhancement and Speaker Extraction
 
-**Harbin Institute of Technology**		
+#### **Harbin Institute of Technology**
 
 - B.E. in Computer Science and Technology	2017.07 - 2021.06 
 - GPA Ranking within Top 3%
@@ -27,18 +27,41 @@ Education
   - National Scholarship 
   - Meritorious Prize of International Student Mathematical Modeling Competition
 
-Experience
-======
+# Experience
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+   
+
+Publications
+======
+> #### Speech Enhancement with Fullband-Subband Cross-Attention Network
+>
+> **Jun Chen**, Wei Rao, Zilin Wang, Zhiyong Wu, Yannan Wang, Tao Yu, Shidong Shang, Helen Meng. "Speech Enhancement with Fullband-Subband Cross-Attention Network". *Under review in INTERSPEECH 2022*.
+
+> #### FullSubNet++: Speech Enhancement with Subband Communication
+>
+> **Jun Chen**, Wei Rao, Zilin Wang, Zhiyong Wu, Yannan Wang, Tao Yu, Shidong Shang, Helen Meng. "FullSubNet++: Speech Enhancement with Subband Communication". *Under review in INTERSPEECH 2022*.
+
+> #### Synthetic Data is All You Need? Towards Universal Neural Vocoding
+>
+> Zilin Wang, Peng Liu, **Jun Chen**, Zhiyong Wu, Chao Weng, Dan Su, Helen Meng. "Synthetic Data is All You Need? Towards Universal Neural Vocoding". *Under review in INTERSPEECH 2022*.
+
+> #### FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement
+>
+> **Jun Chen**, Zilin Wang, Deyi Tuo, Zhiyong Wu, Shiyi Kang, Meng Helen. "Location-Aware Feature Selection Text Detection Network". *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022.
+
+
 
 Create content & metadata
 ------
