@@ -29,9 +29,3 @@ Click [here](https://hit-thusz-rookiecj.github.io/JunChen.github.io/files/cv_jun
 - B.E. in Computer Science and Technology	2017.07 - 2021.06 
 - GPA Ranking within Top 3%
 
-
-
-# Open Source Projects
-
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=hit-thusz-Rookiecj&show_icons=true">
-
