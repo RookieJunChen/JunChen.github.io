@@ -17,8 +17,8 @@ Click [here](https://hit-thusz-rookiecj.github.io/JunChen.github.io/files/cv_jun
 
 
 
-Education
-======
+# Education
+
 **Tsinghua University**
 
 - M.S. in Computer Science and Technology	2021.09 - 2024.06 
