@@ -157,8 +157,6 @@ local.properties
 *.bmp
 *.dib
 
-# ICO
-*.ico
 
 # 3D Images
 *.3dm
