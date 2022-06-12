@@ -103,7 +103,6 @@ local.properties
 
 ### Images template
 # JPEG
-*.jpg
 *.jpeg
 *.jpe
 *.jif
@@ -133,7 +132,7 @@ local.properties
 *.webp
 
 # Portable Network Graphics
-*.png
+
 
 # Animated Portable Network Graphics
 *.apng
