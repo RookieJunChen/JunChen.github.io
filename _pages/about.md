@@ -45,21 +45,29 @@ Education
 
 Publications
 ======
-> #### Speech Enhancement with Fullband-Subband Cross-Attention Network
+> **Speech Enhancement with Fullband-Subband Cross-Attention Network**
 >
-> **Jun Chen**, Wei Rao, Zilin Wang, Zhiyong Wu, Yannan Wang, Tao Yu, Shidong Shang, Helen Meng. "Speech Enhancement with Fullband-Subband Cross-Attention Network". *Under review in INTERSPEECH 2022*.
+> **Jun Chen**, Wei Rao, Zilin Wang, Zhiyong Wu, Yannan Wang, Tao Yu, Shidong Shang, Helen Meng. 
+>
+> *Under review in INTERSPEECH 2022*.
 
-> #### FullSubNet++: Speech Enhancement with Subband Communication
+> **FullSubNet++: Speech Enhancement with Subband Communication**
 >
-> **Jun Chen**, Wei Rao, Zilin Wang, Zhiyong Wu, Yannan Wang, Tao Yu, Shidong Shang, Helen Meng. "FullSubNet++: Speech Enhancement with Subband Communication". *Under review in INTERSPEECH 2022*.
+> **Jun Chen**, Wei Rao, Zilin Wang, Zhiyong Wu, Yannan Wang, Tao Yu, Shidong Shang, Helen Meng. 
+>
+> *Under review in INTERSPEECH 2022*.
 
-> #### Synthetic Data is All You Need? Towards Universal Neural Vocoding
+> Synthetic Data is All You Need? Towards Universal Neural Vocoding
 >
-> Zilin Wang, Peng Liu, **Jun Chen**, Zhiyong Wu, Chao Weng, Dan Su, Helen Meng. "Synthetic Data is All You Need? Towards Universal Neural Vocoding". *Under review in INTERSPEECH 2022*.
+> Zilin Wang, Peng Liu, **Jun Chen**, Zhiyong Wu, Chao Weng, Dan Su, Helen Meng.  
+>
+> *Under review in INTERSPEECH 2022*.
 
-> #### FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement
+> FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement
 >
-> **Jun Chen**, Zilin Wang, Deyi Tuo, Zhiyong Wu, Shiyi Kang, Meng Helen. "Location-Aware Feature Selection Text Detection Network". *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022.
+> **Jun Chen**, Zilin Wang, Deyi Tuo, Zhiyong Wu, Shiyi Kang, Meng Helen.  
+>
+> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022.
 
 
 
