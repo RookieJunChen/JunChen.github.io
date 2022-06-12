@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-FullSubNet+
 excerpt: ''
 date: 2022-01-01
-venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+venue: ''
 paperurl: ''
 citation: '<b>Jun Chen</b>, Zilin Wang, Deyi Tuo, Zhiyong Wu, Shiyi Kang, Meng Helen. &quot;Location-Aware Feature Selection Text Detection Network&quot;. <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2022.'
 ---
