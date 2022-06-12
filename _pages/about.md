@@ -11,6 +11,8 @@ I am currently a Master student at Shenzhen International Graduate School of [Ts
 
 My research interests include Expressive Speech Synthesis, Speech Enhancement and Speaker Extraction.
 
+Click [here](https://hit-thusz-rookiecj.github.io/JunChen.github.io/files/cv_junchen.pdf) to view my latest CV.
+
 Education
 ======
 **Tsinghua University**
@@ -19,6 +21,7 @@ Education
 - Research Interests: Expressive Speech Synthesis, Speech Enhancement and Speaker Extraction
 
 **Harbin Institute of Technology**
+
 - B.E. in Computer Science and Technology	2017.07 - 2021.06 
 - GPA Ranking within Top 3%
 

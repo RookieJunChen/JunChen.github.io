@@ -148,8 +148,7 @@ local.properties
 *.svg
 *.svgz
 
-# Portable Document Format
-*.pdf
+
 
 # X BitMap
 *.xbm
