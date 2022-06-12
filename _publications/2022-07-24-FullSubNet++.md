@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-FullSubNet++
 excerpt: ''
 date: 2022-07-24
-venue: ''
+venue: 'under review in INTERSPEECH'
 paperurl: ''
 citation: '<b>Jun Chen</b>, Wei Rao, Zilin Wang, Zhiyong Wu, Yannan Wang, Tao Yu, Shidong Shang, Helen Meng. &quot;FullSubNet++: Speech Enhancement with Subband Communication&quot;. <i>Under review in INTERSPEECH 2022</i>.'
 
