@@ -1,5 +1,5 @@
 ---
-title: "FullSubNet++: Speech Enhancement with Subband Communication"
+title: "Inter-SubNet: Speech Enhancement with Subband Interaction"
 collection: publications
 permalink: /publication/2022-InerSubNet
 excerpt: ''
