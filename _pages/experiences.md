@@ -12,7 +12,8 @@ redirect_from:
   - Supervised by [Wei Rao](https://scholar.google.com/citations?hl=zh-CN&user=peTocw8AAAAJ).
   - Research about Speech Enhancement and Speaker Extraction:
     - Participated in the DNS Challenge ICASSP 2022 and won the **1st** place in Track 2.
-    - Two paper underreview in InterSpeech 2022.
+    - One paper accepted by InterSpeech 2022.
+    - One paper submitted to ICASSP 2023.
 
 - **Huya**
   - Speech Algorithm Intern	2021.04 - 2021.12
