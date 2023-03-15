@@ -3,10 +3,10 @@ title: "A Synthetic Corpus Generation Method for Neural Vocoder Training"
 collection: publications
 permalink: /publication/2022-Synthcoder
 excerpt: ''
-date: 2023-01-03
+date: 2023-01-02
 venue: 'ICASSP'
 paperurl: ''
-citation: 'Zilin Wang, Peng Liu, <b>Jun Chen</b>, Zhiyong Wu, Chao Weng, Dan Su, Helen Meng. &quot;Synthetic Data is All You Need? Towards Universal Neural Vocoding&quot;. <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2022.'
+citation: 'Zilin Wang, Peng Liu, <b>Jun Chen</b>, Zhiyong Wu, Chao Weng, Dan Su, Helen Meng. &quot;Synthetic Data is All You Need? Towards Universal Neural Vocoding&quot;. <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2023.'
 
 ---
 Abstract
