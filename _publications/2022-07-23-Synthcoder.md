@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-01-02
 venue: 'ICASSP'
 paperurl: ''
-citation: 'Zilin Wang, Peng Liu, <b>Jun Chen</b>, Zhiyong Wu, Chao Weng, Dan Su, Helen Meng. &quot;Synthetic Data is All You Need? Towards Universal Neural Vocoding&quot;. <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2023.'
+citation: 'Zilin Wang, Peng Liu, <b>Jun Chen</b>, Sipan Li, jinfeng Bai, Gang He, Zhiyong Wu, Helen Meng. &quot;A Synthetic Corpus Generation Method for Neural Vocoder Training&quot;. <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2023.'
 
 ---
 Abstract
