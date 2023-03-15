@@ -22,7 +22,7 @@ Click [here](https://hit-thusz-rookiecj.github.io/JunChen.github.io/files/cv_jun
 **Tsinghua University**
 
 - M.S. in Computer Science and Technology	2021.09 - 2024.06 
-- Research Interests: Expressive Speech Synthesis, Speech Enhancement and Speaker Extraction
+- Research Interests: Expressive Speech Synthesis, Speech Enhancement, Speaker Extraction and Speech Restoration
 
 **Harbin Institute of Technology**
 
