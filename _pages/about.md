@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a Master student at Shenzhen International Graduate School of Tsinghua University supervised by [Prof. Zhiyong Wu](https://www.sigs.tsinghua.edu.cn/zywu/main.htm). Before that, I received my bachelor's degree from faculty of computing at Harbin Institute of Technology in 2021.
 
-My research interests include Expressive Speech Synthesis, Speech Enhancement and Speaker Extraction.
+My research interests include Expressive Speech Synthesis, Speech Enhancement, Speaker Extraction and Speech Restoration.
 
 Click [here](https://hit-thusz-rookiecj.github.io/JunChen.github.io/files/cv_junchen.pdf) to view my latest CV.
 
