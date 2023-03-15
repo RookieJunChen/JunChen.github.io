@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 - **Tencent Ethereal Audio Lab**
-  - Machine Learning Intern	2021.12 - Now
+  - Machine Learning Intern	2021.12 - 2023.03
   - Supervised by [Wei Rao](https://scholar.google.com/citations?hl=zh-CN&user=peTocw8AAAAJ).
   - Research about Speech Enhancement and Speaker Extraction:
-    - Participated in the DNS Challenge ICASSP 2022 and won the **1st** place in Track 2.
+    - Participated in the DNS Challenge ICASSP 2023 and won the **1st** place in Tracks 1 & 2.
+    - Participated in the Speech Signal Improvement Challenge ICASSP 2023 and won the **1st** place in Tracks 1 & 2.
     - One paper accepted by InterSpeech 2022.
-    - One paper submitted to ICASSP 2023.
+    - Two paper accepted by ICASSP 2023.
+    - One paper submitted to InterSpeech 2023.
 
 - **Huya**
   - Speech Algorithm Intern	2021.04 - 2021.12
